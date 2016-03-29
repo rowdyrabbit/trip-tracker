@@ -1,0 +1,5 @@
+*.idea/
+**.iml
+**/target/
+**output.log
+**errors.log
